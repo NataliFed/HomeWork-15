@@ -38,6 +38,7 @@ header{
     line-height: 63px;
     color: #E1E1E1;
     margin-right: 18px;
+    text-decoration: none;
 }
 .logo-2{
     width: 193px;
@@ -101,6 +102,7 @@ header{
     content: '';
     width: 16px;
     height: 16px;
+    margin-right: 5px;
     background: url(../img/tel.png) no-repeat;
     display: block;
 }
@@ -114,6 +116,7 @@ header{
     content: '';
     width: 16px;
     height: 12px;
+    margin-right: 5px;
     background: url(../img/Shape.png) no-repeat;
     display: block;
 }
@@ -310,7 +313,7 @@ header{
     width: 98px;
     height: 98px;
     border-radius: 50%;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     background: #FFFFFF url(../img/documents.png) no-repeat center;
 }
 .documents-1{
@@ -321,7 +324,7 @@ header{
     font-weight: 800;
     font-size: 22px;
     text-align: center;
-    /* margin: auto; */
+    
     
 }
 .documents-2{
